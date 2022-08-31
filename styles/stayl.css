@@ -1,0 +1,167 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.container .bowi {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+}
+.container .bowi .about {
+  display: flex;
+}
+.container .bowi .about h1 {
+  margin: 20px;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+.container .bowi .registr {
+  display: flex;
+  margin-left: 30px;
+}
+.container .bowi .registr .bi {
+  margin: 20px;
+  font-size: 20px;
+  height: 17.97711754px;
+  width: 17.97711754px;
+  left: 2.77804565px;
+  top: 2.77807617px;
+  border-radius: 0px;
+}
+.container .bowi .registr .bi:hover {
+  color: aqua;
+}
+.container .bowi .registr button {
+  height: 40px;
+  width: 160px;
+  left: 1180.19433594px;
+  top: 58px;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #ffffff;
+  background-color: #09A66D;
+  margin: 20px;
+}
+.container .meva {
+  text-align: center;
+  height: 1050px;
+  width: 1140px;
+  background-color: #F3FBF8;
+}
+.container .meva h1 {
+  height: 90px;
+  width: 803px;
+  top: 241.96875px;
+  border-radius: nullpx;
+  font-family: 'Rosario';
+  font-size: 70px;
+}
+.container .meva p {
+  height: 90px;
+  width: 637px;
+  border-radius: nullpx;
+  font-size: 30px;
+}
+.container .meva h2 {
+  height: 30px;
+  width: 402px;
+  border-radius: nullpx;
+  padding-top: 200px;
+  font-size: 25px;
+}
+.container .meva h2 .bi {
+  background-color: #09A66D;
+  color: #ffffff;
+  font-size: 50px;
+  border-radius: 55px;
+  width: 100px;
+  height: 100px;
+}
+.container .meva .sabzavot {
+  justify-content: space-between;
+}
+.container .meva .sabzavot .rasim {
+  margin-top: 100px;
+}
+.container .meva .sabzavot .rasim1 {
+  padding: 10px;
+  margin-top: 100px;
+}
+.container .meva .sabzavot .rasim1 button {
+  margin: 5px;
+  border: none;
+}
+.container .meva .sabzavot .rasim1 button:hover {
+  border: 1px solid blue;
+}
+.container .best .matin {
+  margin: 50px;
+}
+.container .best .matin h1 {
+  height: 90px;
+  width: 671px;
+  left: 100.19433594px;
+  top: 1139.89343262px;
+  border-radius: nullpx;
+}
+.container .best .matin p {
+  height: 90px;
+  width: 637.01330566px;
+  left: 100.19433594px;
+  top: 1249.89343262px;
+  border-radius: nullpx;
+  font-size: 20px;
+}
+.container .card .car .card1 {
+  display: flex;
+}
+.container .card .car .card1 .matin .bi {
+  color: #09A66D;
+  font-size: 10px;
+  margin-left: 200px;
+}
+.container .card .car .card1 .matin .bi:hover {
+  color: aquamarine;
+}
+.container .aralash {
+  height: 832px;
+  width: 1440px;
+  left: 0px;
+  top: 2064px;
+  border-radius: 0px;
+  background-color: #ffffff 5%;
+}
+.container .aralash .ara {
+  height: 600px;
+  width: 600px;
+  background: #8be7cccb;
+}
+.container .aralash .ara .rasim1 {
+  height: 249.99999663px;
+  width: 249.99999663px;
+  padding: 20px;
+}
+.container .aralash .matinlar {
+  margin-left: 50px;
+}
+.container .aralash .matinlar h1 {
+  font-size: 50px;
+}
+.container .aralash .matinlar p {
+  font-size: 20px;
+  width: 500px;
+  height: 100px;
+  color: #555555;
+}
+.container .aralash .matinlar h5 {
+  margin-top: 100px;
+  font-size: 30px;
+  font-family: DM Sans;
+}
+.container .aralash .matinlar h5 .bi {
+  color: #09A66D;
+}
